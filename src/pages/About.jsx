@@ -31,7 +31,7 @@ const AboutPage = () => (
                         </p>
                     </div>
                     <div className="card-photo">
-                        <img src="../../public/logo.jpg" alt="Foto History" />
+                        <img src="/logo.jpg" alt="Foto History" />
                     </div>
                 </div>
             </section>
@@ -61,7 +61,7 @@ const AboutPage = () => (
                         </p>
                     </div>
                     <div className="card-photo">
-                        <img src="../../public/logo.jpg" alt="Foto History" />
+                        <img src="/logo.jpg" alt="Foto History" />
                     </div>
                 </div>
             </section>
